@@ -5,6 +5,7 @@ public class pushprint {
 		// TODO Auto-generated method stub
 		System.out.println("Hello PushPrint");
 		System.out.println("Remote fetch");
+
 	}
 
 }
